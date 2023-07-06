@@ -44,7 +44,7 @@ This project is a simple application for better understanding of how to use SOLI
  
  # Dependency Inversion Principle 
 
- ![Project!](/assets/dependency-inversion-Principle.png)
+ ![Project!](/assets/dependency-inversion-principle.png)
  ![Project!](/assets/dependency-inversion.png) 
  Dependency inversion principle:
  Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.

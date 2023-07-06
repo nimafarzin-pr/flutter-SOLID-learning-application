@@ -63,7 +63,7 @@ flutter:
     - assets/Liskov-Substitution-Principle.jpg
     - assets/interface-segregation-2.png
     - assets/interface-segregation.png
-    - assets/dependency-inversion-Principle.png
+    - assets/dependency-inversion-principle.png
     - assets/dependency-inversion.png
   #   - images/a_dot_ham.jpeg
 

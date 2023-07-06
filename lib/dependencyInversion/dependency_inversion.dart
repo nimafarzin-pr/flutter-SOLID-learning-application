@@ -28,7 +28,7 @@ class DependencyInversionPrinciple extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/dependency-inversion-Principle.png'),
+              Image.asset('assets/dependency-inversion-principle.png'),
               Image.asset('assets/dependency-inversion.png'),
               const SizedBox(height: 10),
               const Text(
