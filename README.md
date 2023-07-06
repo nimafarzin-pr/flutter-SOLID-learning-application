@@ -15,20 +15,34 @@ This project is a simple application for better understanding of how to use SOLI
      I - Interface Segregation Principle 
      D - Dependency Inversion Principle 
  In this course, you will be introduced to each principle individually to understand how SOLID can help make you a better developer. 
- Single-Responsibility Principle 
- Single-responsibility Principle (SRP) states:  class should have one and only one reason to change, meaning that a class should have only one job. 
- Open-Closed Principle 
- ![Project!](/assets/open_closed.png) 
- Open-closed Principle (OCP) states: Objects or entities should be open for extension but closed for modification. 
+
+ Single-responsibility Principle (SRP) :  
+ class should have one and only one reason to change, meaning that a class should have only one job. 
+
+
+ Open-Closed Principle
+
+ ![Project!](/assets/open-closed.png)
+ Open-closed Principle (OCP) states: 
+ Objects or entities should be open for extension but closed for modification. 
+ 
  Liskov Substitution Principle 
+
  ![Project!](/assets/single-responsibility-principle.png)
  ![Project!](/assets/Liskov-Substitution-Principle.jpg) 
- Liskov Substitution Principle (LSP) states: Objects of a superclass should be replaceable with objects of its subclasses without breaking the application. In other words, what we want is to have the objects of our subclasses behaving the same way as the objects of our superclass 
+ Liskov Substitution Principle (LSP) states:
+  Objects of a superclass should be replaceable with objects of its subclasses without breaking the application. In other words, what we want is to have the objects of our subclasses behaving the same way as the objects of our superclass 
+ 
  Interface segregation principle (ISP) 
+
  ![Project!](/assets/interface-segregation-2.png)
  ![Project!](/assets/interface-segregation.png) 
- Interface segregation principle (ISP) states: No code should be forced to depend on method it does not use. ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy. 
+ Interface segregation principle (ISP) states: 
+ No code should be forced to depend on method it does not use. ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy. 
+ 
  Dependency Inversion Principle 
+
  ![Project!](/assets/dependency-inversion-Principle.png)
  ![Project!](/assets/dependency-inversion.png) 
- Dependency inversion principle states: Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
+ Dependency inversion principle states: 
+ Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
