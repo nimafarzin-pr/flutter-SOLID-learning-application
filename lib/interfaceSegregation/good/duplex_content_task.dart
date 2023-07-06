@@ -1,0 +1,3 @@
+interface class DuplexContentTask {
+  printDuplexContent() {}
+}

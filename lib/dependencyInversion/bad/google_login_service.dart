@@ -1,0 +1,3 @@
+class GoogleLoginService {
+  login() {}
+}
