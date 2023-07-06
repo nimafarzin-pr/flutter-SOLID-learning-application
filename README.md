@@ -43,7 +43,7 @@
  
  ## Dependency Inversion Principle 
 
- ![Project!](/assets/dependency-inversion-principle.png)
+ ![Project!](/assets/Dependency-Inversion-Principle.png)
  ![Project!](/assets/dependency-inversion.png) 
  Dependency inversion principle:
   Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
